@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: "Verdana";
+}
+
+h1, h2 {
+    font-variant: small-caps;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+img {
+    margin: 10px;
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    padding: 5px;
+    outline-width: 5px;
+    background: #3b3b3b;
+}
+
+label {
+    margin: auto;
+    padding: 10px;
+    outline-width: 1px;
+    display: block;
+    background: #3b3b3b;
+    color: white;
+}
+
+.gallery {
+    background:black;
+    margin: 10px 410px;
+}
