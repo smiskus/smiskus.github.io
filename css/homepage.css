@@ -3,6 +3,10 @@ body {
     font-family: "Verdana";
 }
 
+.hw3 {
+    text-align: left;
+}
+
 h1, h2 {
     font-variant: small-caps;
     font-weight: 100;
