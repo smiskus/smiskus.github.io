@@ -44,3 +44,14 @@ label {
     height: auto;
     width: auto\9; /* ie8 */
 }
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
